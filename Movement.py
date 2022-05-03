@@ -9,4 +9,4 @@ for i in range(10000):
     pyautogui.moveTo(1,y-1,duration=num_sec)
     pyautogui.moveTo(1,1,duration=num_sec)
     time.sleep(5)
-    print('Moving Frame - ',i)
+    print('Moving Frame Time- ',i)
