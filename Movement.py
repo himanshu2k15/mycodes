@@ -1,5 +1,6 @@
 import pyautogui,time
 num_sec=10
+print("Goint to Start")
 x,y=pyautogui.size()
 for i in range(10000):
     time.sleep(5) 
